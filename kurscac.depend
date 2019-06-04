@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1559688259 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\find_and_sort.c
+	"list.h"
+
+1559679833 c:\users\elwinner\desktop\elwin guseinov\kurscac\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
+1559679833 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\menu.c
+	"list.h"
+
+1559680998 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\nodework.c
+	"list.h"
+
+1559680907 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\read.c
+	"list.h"
+
+1559680907 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\redaction.c
+	"list.h"
+
+1559683008 source:c:\users\elwinner\desktop\elwin guseinov\kurscac\main.c
+	"list.h"
+

@@ -132,7 +132,7 @@ int main()
 
                                     if (key2==1)
                                     {
-                                        printf("\n Stay at redaction? 1-Да , 0-Нет\n");
+                                        printf("\n Stay at redaction? 1-Yes , 0-No\n");
                                         key2=menu_intput();
                                         if (key2==-1)
                                         {

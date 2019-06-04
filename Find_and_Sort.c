@@ -83,7 +83,7 @@ int FindNodesByField(Head *MyHead, char *(*Fname)(Node *MyNode), int d, char *s,
                 len2=-1;
                 len1=strlen(C);
                 for (i=0;i<len1;i++)
-                    if (C[i]==',')
+                    if (C[i]=='.')
                     {
                         len2=i;
                         i=len1;
